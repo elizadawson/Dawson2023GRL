@@ -1,5 +1,4 @@
-# Results from "Heterogeneous basal thermal conditions underpinning the Adélie-George V Coast, East Antarctica"
-Repository for manuscript: Heterogeneous basal thermal conditions underpinning the Adélie-George V Coast, East Antarctica
+# Results from manuscript: Heterogeneous basal thermal conditions underpinning the Adélie-George V Coast, East Antarctica
 
 If you are using this data, please cite Dawson et al., 2023, Heterogeneous basal thermal conditions underpinning the Adélie-George V Coast, East Antarctica, GRL
 
